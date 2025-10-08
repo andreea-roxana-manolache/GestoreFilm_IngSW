@@ -6,8 +6,8 @@ import java.util.*;
 public class FiltroStatoVisione implements StrategiaFiltro{
     private final String statoVisione;
 
-    public FiltroStatoVisione(String statoLettura) {
-        this.statoVisione = statoLettura.toUpperCase();
+    public FiltroStatoVisione(String statoVisione) {
+        this.statoVisione = statoVisione.toUpperCase();
     }
 
     @Override
