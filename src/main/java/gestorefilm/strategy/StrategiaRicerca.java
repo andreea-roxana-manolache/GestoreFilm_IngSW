@@ -1,6 +1,6 @@
-package gestoreFilm.strategy;
+package gestorefilm.strategy;
 import java.util.*;
-import gestoreFilm.model.Film;
+import gestorefilm.model.Film;
 
 public interface StrategiaRicerca {
     List<Film> ricerca(List<Film> films, String chiave);

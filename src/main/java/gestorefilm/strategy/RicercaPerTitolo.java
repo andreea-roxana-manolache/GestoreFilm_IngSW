@@ -1,5 +1,5 @@
-package gestoreFilm.strategy;
-import gestoreFilm.model.Film;
+package gestorefilm.strategy;
+import gestorefilm.model.Film;
 import java.util.*;
 
 public class RicercaPerTitolo implements StrategiaRicerca {

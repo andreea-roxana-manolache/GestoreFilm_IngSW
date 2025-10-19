@@ -1,4 +1,4 @@
-package gestoreFilm.model;
+package gestorefilm.model;
 
 public class Film {
     private final String titolo;

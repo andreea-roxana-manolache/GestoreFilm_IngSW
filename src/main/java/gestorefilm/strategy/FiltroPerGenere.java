@@ -1,6 +1,6 @@
-package gestoreFilm.strategy;
+package gestorefilm.strategy;
 import java.util.*;
-import gestoreFilm.model.Film;
+import gestorefilm.model.Film;
 
 public class FiltroPerGenere implements StrategiaFiltro {
     public final String genere;
